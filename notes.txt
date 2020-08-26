@@ -1,8 +1,8 @@
 Todo list
 
-[ ]  Loop through employees array
-  [ ]  Pass employee object into function
-  [ ]  console.log the result
+[ X ]  Loop through employees array
+  [ X ]  Pass employee object into function
+  [ X ]  console.log the result
 
 [ ]  THE function
     [ ] return a new object
@@ -19,7 +19,7 @@ Todo list
     [ ] If income > $65K, bonus -  1%
     [ ] Max/min bonus (13%, 0%)
 
-[ ]  STRETCH GOALS
+[ ]  STRETCH GOALS`
 
 
 
